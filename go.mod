@@ -1,4 +1,4 @@
-module github.com/masterzen/winrm
+module github.com/olive-io/winrm
 
 go 1.18
 
